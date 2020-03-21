@@ -1,0 +1,29 @@
+{
+  "name": "morse-code-translator",
+  "version": "1.0.0",
+  "description": "Translates English phrases into Morse Code",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lkhbggbg/morse-code-translator.git"
+  },
+  "keywords": [
+    "morse",
+    "code"
+  ],
+  "author": "Gus <auowpawa@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lkhbggbg/morse-code-translator/issues"
+  },
+  "homepage": "https://github.com/lkhbggbg/morse-code-translator#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.1"
+  }
+}
